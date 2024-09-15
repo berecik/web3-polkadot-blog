@@ -1,6 +1,6 @@
 # Tworzenie Bloga Web3 z Użyciem Polkadot i Substrate w Rust
 
-![Polkadot i Substrate](https://example.com/polkadot_substrate_image.png)
+![Polkadot i Substrate](https://polkadot.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpolkadot-logo.0e1e2c79.png&w=256&q=75)
 
 ## Wprowadzenie
 
